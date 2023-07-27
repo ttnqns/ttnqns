@@ -1,5 +1,14 @@
-### Hi there 👋
-
+<p dir="auto">Hola 👋, mi nombre es Tatiana Quiñones, soy Técnico en Informática</p>
+<p dir="auto">Soy de la ciudad de San Felipe, Chile. También habituo las ciudades de Quilpué y Viña del Mar. Actualmente me formo para ser desarrolladora fullstack de Ruby on Rails.</p>
+<p dir="auto">Estudie en la Universidad Técnica Federico Santa María, en la cual estudie algunas tecnologías como Phyton, Java, C#, PostgreSQL, MySQL, HTML, CSS, Javascript, Dart, Flutter, entre otras.</p>
+<h4 dir="auto">Se me puede encontar y contactar por:</h4>
+<ul>
+  <li>Email: tatianaqog@gmail.com</li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/ttnqns" rel="">Tatiana Quiñones</a></li>
+  <li>Instagram: <a href="https://www.instagram.com/ttnqns/" rel="">@ttnqns</a></li>
+  <li>Twitter: <a href="https://twitter.com/ttnqns" rel="">@ttnqns</a></li>
+  <li>Discord: skall20</li>
+</ul>
 <!--
 **ttnqns/ttnqns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
